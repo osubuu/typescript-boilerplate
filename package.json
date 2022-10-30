@@ -1,0 +1,16 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.7",
+    "npx": "^10.2.2",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  }
+}
